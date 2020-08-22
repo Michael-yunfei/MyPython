@@ -19,7 +19,7 @@ last_modified_date: 2020-04-27T17:54:08+0000
 
 {: .fs-6 .fw-300 }
 
-[使用说明](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[使用说明](#使用说明){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 <!-- [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 } -->
 
