@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Typography
+title: 编程语言简介
 parent: Python 基础
 nav_order: 1
 ---
 
-# Typography
+# 编程语言简介
 {: .no_toc }
 
 ## Table of contents
