@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Color
+title: 颜色
 parent: Utilities
 ---
 
