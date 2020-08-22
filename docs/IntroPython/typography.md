@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Typography
-parent: IntroPython
+parent: Python 基础
 nav_order: 1
 ---
 
