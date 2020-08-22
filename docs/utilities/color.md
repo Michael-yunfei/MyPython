@@ -4,7 +4,7 @@ title: 颜色
 parent: 初始分类
 ---
 
-# Color Utilities
+# 颜色变幻
 {: .no_toc }
 
 ## Table of contents
