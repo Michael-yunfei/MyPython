@@ -15,6 +15,7 @@ last_modified_date: 2020-04-27T17:54:08+0000
 * 基本的编程知识(比如Python基础)
 * 简单得统计概念(比如数据表格概念和数据可视化等)
 
+因此，为了更加有效地推进人工智能学科的学习，增加普罗大众对这个领域的认识，该网站试图有效地整合和呈现相关资源，力图成为人工智能领域的一站式索引终端。
 {: .fs-6 .fw-300 }
 
 [使用说明](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
@@ -25,11 +26,15 @@ last_modified_date: 2020-04-27T17:54:08+0000
 
 ## 使用说明
 
-### Dependencies
+### Python基础
 
-Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
+因为。。
 
-### Quick start: Use as a GitHub Pages remote theme
+```python
+import numpy as np
+```
+
+### 数据呈现
 
 1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
 ```yaml
@@ -37,7 +42,7 @@ remote_theme: pmarsceill/just-the-docs
 ```
 <small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
 
-### Local installation: Use the gem-based theme
+### Python
 
 1. Install the Ruby Gem
 ```bash
