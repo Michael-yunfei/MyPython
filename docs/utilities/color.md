@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 颜色
-parent: Utilities
+parent: 初始分类
 ---
 
 # Color Utilities
