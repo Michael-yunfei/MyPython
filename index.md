@@ -7,17 +7,23 @@ permalink: /
 last_modified_date: 2020-04-27T17:54:08+0000
 ---
 
-# 中文可以吗
+## AI 在线
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+由于人工智能是一个综合性学科，所以其对资源地整合有着更高的要求。具体来说，人工智能领域下的机器学习模型和深度学习模型所涉及的学科内容包括且不限于以下的内容:
+* 基本数学知识(比如矩阵运算和函数求导)
+* 基本的编程知识(比如Python基础)
+* 简单得统计概念(比如数据表格概念和数据可视化等)
+
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+[使用说明](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
+<!-- [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 } -->
 
 ---
 
-## Getting started
+## 使用说明
 
 ### Dependencies
 
