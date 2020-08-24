@@ -36,6 +36,10 @@ last_modified_date: 2020-04-27T17:54:08+0000
 import numpy as np
 ```
 
+也可以嵌入interactive python console, so cool:
+
+<iframe src="https://trinket.io/embed/python/22e162f38c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
 ### 数据呈现
 
 1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
