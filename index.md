@@ -38,7 +38,7 @@ import numpy as np
 
 也可以嵌入interactive python console, so cool:
 
-<iframe src="https://trinket.io/embed/python3/36a17e7e0f" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python3/3f11f21375" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 ### 数据呈现
 
